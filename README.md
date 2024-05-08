@@ -1,6 +1,3 @@
-@@ -1,2 +1,60 @@
-# My-Profile
-My Info
 # Ali Shoaib
 
 Enthusiastic computer science student with a strong desire to explore and master the diverse realms of computer science and emerging technologies. I have found my passion in programming, which has made learning, working, and embracing the journey a true joy.
@@ -10,6 +7,7 @@ Enthusiastic computer science student with a strong desire to explore and master
 - **Phone**: [+92 304 189 2084](tel:+923041892084)
 - **Email**: [ali.shoaib2021@namal.edu.pk](mailto:ali.shoaib2021@namal.edu.pk)
 - **LinkedIn**: [shoaib-goraya-184-m](https://www.linkedin.com/in/shoaib-goraya-184-m)
+- **Kaggle**: [shoaibgoraya](https://www.kaggle.com/shoaibgoraya)
 
 ## 💼 Projects
 
