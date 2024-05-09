@@ -24,10 +24,10 @@ Enthusiastic computer science student with a strong desire to explore and master
 ## 🎖️ Certificates
 
 - **MERN Stack** — Uet Lahore (summer boot camp 2023)
-  - [View Certificate](#) <!-- You can add a link to the certificate if it's available online -->
+  - [View Certificate](https://drive.google.com/file/d/1oFKchocUfQMhGTaWUhNw47DUmgdDJpUN/view) <!-- You can add a link to the certificate if it's available online -->
 
 - **Git & GitHub** — Google (October, 2023)
-  - [View Certificate](#) <!-- You can add a link to the certificate if it's available online -->
+  - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/JN4YSFH3FXFV) <!-- You can add a link to the certificate if it's available online -->
 
 ## 🛠️ Skills
 
