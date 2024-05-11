@@ -29,10 +29,10 @@ Enthusiastic computer science student with a strong desire to explore and master
 - **Git & GitHub** — Google (October, 2023)
   - [View Certificate](https://www.coursera.org/account/accomplishments/certificate/JN4YSFH3FXFV) <!-- You can add a link to the certificate if it's available online -->
 
-- **Pandas** — Kaggle (October, 2023)
+- **Pandas** — Kaggle (April, 2024)
   - [View Certificate](https://www.kaggle.com/learn/certification/shoaibgoraya/pandas) <!-- You can add a link to the certificate if it's available online -->
 
-- **Intro to Machine Learning** — Kaggle (October, 2023)
+- **Intro to Machine Learning** — Kaggle (April, 2024)
   - [View Certificate](https://www.kaggle.com/learn/certification/shoaibgoraya/intro-to-machine-learning) <!-- You can add a link to the certificate if it's available online -->
 
 ## 🛠️ Skills
