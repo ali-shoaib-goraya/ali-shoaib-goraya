@@ -11,7 +11,7 @@ Enthusiastic computer science student with a strong desire to explore and master
 
 ## 💼 Projects
 
-- **Data Analysis (Python)**: Conducted data normalization and visualization using Python libraries including Pandas, Matplotlib, and Numpy.
+- **Pakistan Aisa Q hai? (Data Analysis and Visualization using python) (01/2022)**: Conducted data normalization and visualization using Python libraries including Pandas, Matplotlib, and Numpy.
 
 - **University Attendance System (Python)**: Designed and implemented a console-based university attendance system. Demonstrated proficiency in object-oriented design, ensuring robust functionality. Streamlined attendance management for improved administrative efficiency.
 
