@@ -17,6 +17,21 @@ Enthusiastic computer science student with a strong desire to explore and master
 
 - **Console and GUI-Based Facebook Applications (Python)**: Developed a console-based Facebook application with features including messaging, friend requests, posts, profile management, and notifications. Implemented data storage using Excel sheets with the Openpyxl Python library. Further extended the project to a Graphical User Interface (GUI) based application, enhancing user experience and accessibility.
 
+- **Mining Mental Health Trends: A Multi-Method Analysis of
+Prevalence Data with Forecasting and Clustering**: Analyze mental health disorder prevalence data across countries and
+years. Identify trends, correlations, perform time series analysis, forecast
+future rates, and group countries by mental health metrics using
+clustering techniques.
+
+- **Data generation and architecture design for the
+classification of Urdu text**: Developed a comprehensive dataset and neural network
+architecture for the classification of Urdu text, addressing the current challenges in Pakistan. This project involved generating diverse Urdu word
+images, applying data augmentation techniques, and designing a robust neural network to achieve high accuracy in text classification. This work
+significantly contributes to the field of natural language processing and
+computer vision for the Urdu language.
+
+
+
 ## 🎓 Education
 
 - **Namal University, Mianwali** — BSCS (November 2021 - July 2025)
