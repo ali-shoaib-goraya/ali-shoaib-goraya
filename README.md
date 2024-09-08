@@ -11,8 +11,9 @@ Enthusiastic computer science student with a strong desire to explore and master
 
 ## 💼 Projects
 
-- **Pakistan Aisa Q hai? (Data Analysis and Visualization using python) (01/2022)**: Conducted data normalization and visualization using Python libraries including Pandas, Matplotlib, and Numpy.
-
+- **Pakistan Aisa Q hai? (Data Analysis and Visualization using python) (01/2022)**: This project is my first semester project of Course Quantitative and
+Computational Reasoning and aims to demonstrate skills in data analysis and visualization using Python. The code analyzes a dataset containing
+various socio-economic indicators and provides insights into Pakistan's position globally.
 - **University Attendance System (Python) (05/2022)**: Designed and implemented a console-based university attendance system. Demonstrated proficiency in object-oriented design, ensuring robust functionality. Streamlined attendance management for improved administrative efficiency.
 
 - **Console and GUI-Based Facebook Applications (Python) (06/2022)**: Developed a console-based Facebook application with features including messaging, friend requests, posts, profile management, and notifications. Implemented data storage using Excel sheets with the Openpyxl Python library. Further extended the project to a Graphical User Interface (GUI) based application, enhancing user experience and accessibility.
