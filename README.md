@@ -13,18 +13,18 @@ Enthusiastic computer science student with a strong desire to explore and master
 
 - **Pakistan Aisa Q hai? (Data Analysis and Visualization using python) (01/2022)**: Conducted data normalization and visualization using Python libraries including Pandas, Matplotlib, and Numpy.
 
-- **University Attendance System (Python)**: Designed and implemented a console-based university attendance system. Demonstrated proficiency in object-oriented design, ensuring robust functionality. Streamlined attendance management for improved administrative efficiency.
+- **University Attendance System (Python) (05/2022)**: Designed and implemented a console-based university attendance system. Demonstrated proficiency in object-oriented design, ensuring robust functionality. Streamlined attendance management for improved administrative efficiency.
 
-- **Console and GUI-Based Facebook Applications (Python)**: Developed a console-based Facebook application with features including messaging, friend requests, posts, profile management, and notifications. Implemented data storage using Excel sheets with the Openpyxl Python library. Further extended the project to a Graphical User Interface (GUI) based application, enhancing user experience and accessibility.
+- **Console and GUI-Based Facebook Applications (Python) (06/2022)**: Developed a console-based Facebook application with features including messaging, friend requests, posts, profile management, and notifications. Implemented data storage using Excel sheets with the Openpyxl Python library. Further extended the project to a Graphical User Interface (GUI) based application, enhancing user experience and accessibility.
 
 - **Mining Mental Health Trends: A Multi-Method Analysis of
-Prevalence Data with Forecasting and Clustering**: Analyze mental health disorder prevalence data across countries and
+Prevalence Data with Forecasting and Clustering (06/2024)**: Analyze mental health disorder prevalence data across countries and
 years. Identify trends, correlations, perform time series analysis, forecast
 future rates, and group countries by mental health metrics using
 clustering techniques.
 
 - **Data generation and architecture design for the
-classification of Urdu text**: Developed a comprehensive dataset and neural network
+classification of Urdu text (06/2024)**: Developed a comprehensive dataset and neural network
 architecture for the classification of Urdu text, addressing the current challenges in Pakistan. This project involved generating diverse Urdu word
 images, applying data augmentation techniques, and designing a robust neural network to achieve high accuracy in text classification. This work
 significantly contributes to the field of natural language processing and
