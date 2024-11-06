@@ -4,7 +4,7 @@ Enthusiastic computer science student with a strong desire to explore and master
 
 ## 📞 Contact Me
 
-- **Phone**: [+92 304 189 2084](tel:+923041892084)
+
 - **Email**: [ali.shoaib2021@namal.edu.pk](mailto:ali.shoaib2021@namal.edu.pk)
 - **LinkedIn**: [shoaib-goraya-184-m](https://www.linkedin.com/in/shoaib-goraya-184-m)
 - **Kaggle**: [shoaibgoraya](https://www.kaggle.com/shoaibgoraya)
