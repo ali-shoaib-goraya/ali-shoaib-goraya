@@ -85,4 +85,4 @@ provide services to universities, allowing them to manage their campuses, school
 - Computer Networks
 - Artificial Intelligence
 - Machine Learning
-- Mobile App Development
+- Cloud Computing
