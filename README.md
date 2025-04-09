@@ -64,9 +64,12 @@ provide services to universities, allowing them to manage their campuses, school
 - React.js
 - OOP
 - DSA
-- Databases (SQL)
+- Databases (SQL & NoSQL)
 - Full Stack Web App Development (MERN Stack)
-- Mobile App Development (Flutter)
+- Django & Django Rest Framework
+- Asp.net core Web Api
+- RestFul Apis
+- Microsoft Azure Cloud (Azure App Service, Azure SQL Database, Azure Blob Storage, Azure Cosmos DB)
 - Machine Learning
 - Data Analysis
 - Git & GitHub
