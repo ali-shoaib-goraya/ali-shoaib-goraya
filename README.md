@@ -31,6 +31,11 @@ images, applying data augmentation techniques, and designing a robust neural net
 significantly contributes to the field of natural language processing and
 computer vision for the Urdu language.
 
+- **LMS SaaS (FYP) Asp.net core & React js (09/2024 - Present)**:A cloud-based Learning Management System (LMS) designed as a SaaS solution to
+provide services to universities, allowing them to manage their campuses, schools, and departments under a unified platform. Key features include comprehensive user management (Students, Faculty, and Staff), course management, course-wise discussion boards, activity management, analytics and automatic timetable creation.
+
+
+
 
 
 ## 🎓 Education
