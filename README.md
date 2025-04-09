@@ -1,6 +1,7 @@
 # Ali Shoaib Goraya
 
-Enthusiastic computer science student with a strong desire to explore and master the diverse realms of computer science and emerging technologies. I have found my passion in programming, which has made learning, working, and embracing the journey a true joy.
+Final-year BS Computer Science student and passionate Full Stack Developer with hands-on experience in React.js, Tailwind CSS, Node.js, Django, and ASP.NET Core. Skilled in designing scalable web applications, RESTful APIs, and working with SQL/NoSQL databases. Proficient in OOP, cloud- native development using Microsoft Azure, and committed to backend engineering and cloud computing. Eager to contribute as an Associate
+Software Engineer in a growth-focused environment.
 
 ## 📞 Contact Me
 
