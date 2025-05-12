@@ -40,7 +40,7 @@ provide services to universities, allowing them to manage their campuses, school
 
 ## 🎓 Education
 
-- **Namal University, Mianwali** — BSCS (November 2021 - July 2025)
+- **Namal University, Mianwali** — BSCS (November 2021 - June 2025)
 
 ## 🎖️ Certificates
 
