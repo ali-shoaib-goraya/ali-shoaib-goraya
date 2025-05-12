@@ -15,14 +15,18 @@ Software Engineer in a growth-focused environment.
 - **Pakistan Aisa Q hai? (Data Analysis and Visualization using python) (01/2022)**: This project is my first semester project of Course Quantitative and
 Computational Reasoning and aims to demonstrate skills in data analysis and visualization using Python. The code analyzes a dataset containing
 various socio-economic indicators and provides insights into Pakistan's position globally.
+🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/Data-Science-Project)
 
 - **Console and GUI-Based Facebook Applications (Python) (06/2022)**: Developed a console-based Facebook application with features including messaging, friend requests, posts, profile management, and notifications. Implemented data storage using Excel sheets with the Openpyxl Python library. Further extended the project to a Graphical User Interface (GUI) based application, enhancing user experience and accessibility.
+🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/OOP_Project_2_GUI_based_Facebook)
 
 - **Mining Mental Health Trends: A Multi-Method Analysis of
 Prevalence Data with Forecasting and Clustering (06/2024)**: Analyze mental health disorder prevalence data across countries and
 years. Identify trends, correlations, perform time series analysis, forecast
 future rates, and group countries by mental health metrics using
 clustering techniques.
+🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/Mining-Mental-Health-Trends-A-Multi-Method-Analysis-of-Prevalence-Data-)
+
 
 - **Data generation and architecture design for the
 classification of Urdu text (06/2024)**: Developed a comprehensive dataset and neural network
@@ -30,11 +34,14 @@ architecture for the classification of Urdu text, addressing the current challen
 images, applying data augmentation techniques, and designing a robust neural network to achieve high accuracy in text classification. This work
 significantly contributes to the field of natural language processing and
 computer vision for the Urdu language.
+🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/Data-generation-and-architecture-design-for-the-classification-of-Urdu-text)
 
 - **LMS SaaS (FYP) Asp.net core & React js (09/2024 - Present)**:A cloud-based Learning Management System (LMS) designed as a SaaS solution to
 provide services to universities, allowing them to manage their campuses, schools, and departments under a unified platform. Key features include comprehensive user management (Students, Faculty, and Staff), course management, course-wise discussion boards, activity management, analytics and automatic timetable creation.
 
-
+ 🔗 [Frontend Repo](https://github.com/ali-shoaib-goraya/LMS_Frontend)  
+ 🔗 [Backend Repo](https://github.com/ali-shoaib-goraya/LMS_Backend)  
+ 🔗 [Live Demo](https://lms-app.azurewebsites.net)
 
 
 
