@@ -41,7 +41,7 @@ provide services to universities, allowing them to manage their campuses, school
 
  🔗 [Frontend Repo](https://github.com/ali-shoaib-goraya/LMS_Frontend)  
  🔗 [Backend Repo](https://github.com/ali-shoaib-goraya/LMS_Backend)  
- 🔗 [Live Demo](https://lms-app.azurewebsites.net)
+ 🔗 [project Video](https://youtu.be/iNSvIdEwFKw)
 
 
 
