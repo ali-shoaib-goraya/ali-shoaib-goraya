@@ -21,7 +21,7 @@ Fresh BS Computer Science graduate and passionate Full Stack Developer with hand
 - Debugged and resolved deep container-level issues like `ImagePullBackOff`, DB initialization errors, and access denials using `kubectl` and pod logs  
 - Verified deployment by exposing services via **NodePort**, testing through Minikube tunnel, and inspecting database integrity  
 
-🔗 [Go TODO Backend Repo](https://github.com/ali-shoaib-goraya/go-todo-devops)
+🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/go-todo-devops)
 
 ---
 
