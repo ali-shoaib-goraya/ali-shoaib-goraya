@@ -43,7 +43,7 @@ Fresh BS Computer Science graduate and passionate Full Stack Developer with hand
   Generated Urdu word images, applied data augmentation, and developed a CNN model for text classification. Addressed NLP and computer vision challenges in regional languages.  
   🔗 [GitHub Repository](https://github.com/ali-shoaib-goraya/Data-generation-and-architecture-design-for-the-classification-of-Urdu-text)
 
-- **LMS SaaS (FYP) – ASP.NET Core & React.js (09/2024 - Present)**  
+- **LMS SaaS (FYP) – MERN Stack (09/2024 - Present)**  
   Developed a multi-tenant, cloud-based LMS that enables universities to manage their ecosystem (schools, departments, users). Features include course management, discussions, analytics, and auto-timetabling.  
   🔗 [Frontend Repo](https://github.com/ali-shoaib-goraya/LMS_Frontend)  
   🔗 [Backend Repo](https://github.com/ali-shoaib-goraya/LMS_Backend)  
